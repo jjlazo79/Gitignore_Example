@@ -33,5 +33,10 @@
 ._*
 .Spotlight-V100
 .Trashes
+desktop.ini
 ehthumbs.db
 Thumbs.db
+
+# WordPress Config #
+######################
+wp-config.php
